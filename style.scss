@@ -192,13 +192,16 @@ html{
             }
         }
         &--subtitle{
-            margin: 0;
+            margin: 15px 0;
           p{
             font-size: 35px;
             text-align: center;
           }
         }
         
+    }
+    .es-sectionBreak{
+        margin: 40px 0;
     }
     .es-when{
         display: flex;

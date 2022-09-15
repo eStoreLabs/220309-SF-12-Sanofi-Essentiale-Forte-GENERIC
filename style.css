@@ -233,11 +233,14 @@ html {
   margin: 5px;
 }
 #es-essentiale-forte.es-essentiale-forte .es-section__title--subtitle {
-  margin: 0;
+  margin: 15px 0;
 }
 #es-essentiale-forte.es-essentiale-forte .es-section__title--subtitle p {
   font-size: 35px;
   text-align: center;
+}
+#es-essentiale-forte.es-essentiale-forte .es-sectionBreak {
+  margin: 40px 0;
 }
 #es-essentiale-forte.es-essentiale-forte .es-when {
   display: flex;
